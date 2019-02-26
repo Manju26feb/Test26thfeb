@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 4A14-02BB
+
+ Directory of C:\Users\manjunath\Desktop\git
+
+26-02-2019  14:29    <DIR>          .
+26-02-2019  14:29    <DIR>          ..
+26-02-2019  14:29                 0 fifth.txt
+26-02-2019  11:32                 0 first.txt
+26-02-2019  12:20               264 git
+26-02-2019  12:41                17 secondfile.txt
+               4 File(s)            281 bytes
+               2 Dir(s)  520,655,347,712 bytes free
